@@ -1,7 +1,7 @@
 2024년 4학년 1학기 가천대학교 컴퓨터공학과 졸업 프로젝트
 
 주제 :  AI 피부 관리 도우미 서비스
+
 담당 역할 : 클라우드 아키텍쳐 설계 및 데이터베이・서버 구축 
 
-내용
-- AWS EC2, Node.JS, AWS RDS, MySQL을 사용한 Restful API 서버 구축
+내용 :  AWS EC2, Node.JS, AWS RDS, MySQL을 사용한 Restful API 서버 구축
